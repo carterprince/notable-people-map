@@ -1,6 +1,6 @@
 # Notable People Map
 
-Generates a map of where notable people in STEM and Philosophy were born.
+Generates an interactive map of where notable people in STEM and Philosophy were born.
 
 ![plot](https://github.com/carterprince/notable-people-map/assets/11081492/13293509-0f33-487e-9655-6fb18f308190)
 
